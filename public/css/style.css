@@ -46,6 +46,11 @@ span {
 	font-size: 1.5em;
 }
 
+a {
+	/*text-decoration: none;*/
+	color: snow;
+}
+
 #search-button {
 	padding: .85em;
 	background-color: #55acee;
